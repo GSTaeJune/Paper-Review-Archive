@@ -2,7 +2,7 @@
 # 📚 AI Hardware & Architecture Paper Reviews
 
 ![Language](https://img.shields.io/badge/Language-Korean%2FEnglish-blue)
-![Focus](https://img.shields.io/badge/Focus-AI__Accelerator%20%7C%20Quantization-orange)
+![Focus](https://img.shields.io/badge/Focus-AI__Accelerator%20%7C%20ComputerArchitecture-orange)
 ![Status](https://img.shields.io/badge/Status-Master's_Degree-green)
 
 ## 📖 Introduction
