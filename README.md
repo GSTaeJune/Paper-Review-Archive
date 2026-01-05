@@ -6,11 +6,10 @@
 ![Status](https://img.shields.io/badge/Status-Master's_Degree-green)
 
 ## 📖 Introduction
-안녕하세요! AI 하드웨어 가속기와 컴퓨터 구조를 연구하는 석사 과정 아카이브입니다.
-주로 **Transformer Acceleration**, **Quantization (INT8/FP8)**, **Systolic Array** 관련 논문을 리뷰하고 정리합니다.
+Greetings! I am TaeJun Park, a Master's student at Hongik University. My research interests lie broadly in Computer Architecture and AI Accelerators. I started this repository to archive short reviews and share critical insights on the papers I study.
 
-* **Goal:** 매주 1편 이상의 논문을 읽고 Critical Thinking 남기기
-* **Contact:** (이메일 주소 or 링크)
+
+* **Contact:** ptj7002@g.hongik.ac.kr / ptj7272@naver.com
 
 ---
 
@@ -19,19 +18,17 @@
 ### ⚡ Transformer & Quantization
 | Date | Title & Link | Venue | Key Tags |
 | :--- | :--- | :--- | :--- |
-| 2026.01 | [**I-ViT: Integer-only Vision Transformer**](./reviews/I-ViT.md) | CVPR '23 | `Int-Only` `Shift` |
-| 2025.12 | [**A White Paper on Neural Network Quantization**](./reviews/Qualcomm_Whitepaper.md) | ArXiv | `Quantization` `Basic` |
+| 2026.01 | [****](./reviews/I-ViT.md) |  | `keyword`  |
+| 2025.12 | [***](./reviews/Qualcomm_Whitepaper.md) | ArXiv | `Quantization` `Basic` |
 
 ### 🏗️ GPU & Accelerator Architecture
 | Date | Title & Link | Venue | Key Tags |
 | :--- | :--- | :--- | :--- |
-| 2025.11 | [**Gemini: A Family of Highly Capable Multimodal Models**](./reviews/Gemini_Tech_Report.md) | Google | `LLM` `TPU` |
+| 2025.11 | [****](./reviews/Gemini_Tech_Report.md) | Google | `LLM` `TPU` |
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-이 리포지토리의 코드 구현이나 분석에 사용된 툴입니다.
-* **Languages:** Verilog, Python (PyTorch), C++ (CUDA)
-* **Tools:** Vivado, Synopsys Design Compiler
+
 
 ---
