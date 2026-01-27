@@ -22,19 +22,3 @@ Most of the papers(Computer Architecture) listed here were recommended and studi
 5. What have you learned/enjoyed/disliked
 
 
-## 📂 Reading List
-
-### ⚡ AI Accelerator
-| Date | Title & Link  | Key Tags |
-| :--- | :---  | :--- |
-| 2016 | [**Eyeriss: An energy-efficient reconfigurable accelerator for deep convolutional neural networks.**](./reviews/I-ViT.md)  | `Eyeriss`  |
-| 2014 | [**Diannao: A small-footprint high-throughput accelerator for ubiquitous machine-learning.**](./reviews/Qualcomm_Whitepaper.md)  | `Diannao` |
-||****||
-
-### 🏗️ Computer Architecture
-| Date | Title & Link  | Key Tags |
-| :--- | :---  | :--- |
-| 1982 | [**Why systolic architecture?**](./reviews/Gemini_Tech_Report.md)  | `systolic`  |
-||****||
----
-
