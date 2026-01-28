@@ -21,3 +21,5 @@ If I were reviewing this paper at the time of its publication, I would have prop
 ---
 ### 5. What have you learned/enjoyed/disliked
 As the first AI accelerator paper I have read, Eyeriss was instrumental in establishing my foundational understanding of the field. It provided clear insights into how memory hierarchy design can minimize DRAM access and maximize data reuse.
+
+written -2026-01-28 read -2025-9
