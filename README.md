@@ -15,7 +15,7 @@ Most of the papers(Computer Architecture) listed here were recommended and studi
 * **Contact:** ptj7002@g.hongik.ac.kr / ptj7272@naver.com
 
 ## 🏷️ Review Guide
-1. Breif Summary
+1. Brief Summary
 2. Strength
 3. Weakness
 4. Can you do better?

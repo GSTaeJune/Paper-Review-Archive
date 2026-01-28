@@ -2,7 +2,7 @@
 
 
 ---
-### 1. Breif Summary
+### 1. Brief Summary
 
 ---
 ### 2. Strength

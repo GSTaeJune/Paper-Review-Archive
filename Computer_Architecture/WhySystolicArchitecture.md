@@ -3,7 +3,7 @@ Kung, Hsiang-Tsung. Why systolic architecture?. Pittsburgh, PA, USA: Design Rese
 
 
 ---
-## 1. Breif Summary
+## 1. Brief Summary
 
 Most special-purpose systems are built on an ad hoc basis for specific tasks. Because the knowledge is gained individually, it cannot be properly accumulated or organized. Therefore, the author proposes a general guideline—specifically, the concept of systolic architecture.The design cost of a special-purpose system must be relatively small than General Purpose.→ It can achieved by decomposing into a few types of simple substructures, which are used ‘repetitively’ with ‘simple interfaces’. ‘simple’ and ‘regular’ designs are likely to be modular and therefore adjustable to various performance goals.
 
