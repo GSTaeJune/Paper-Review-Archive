@@ -30,4 +30,5 @@ An infinite number of processors does not inherently make a task faster. The ove
 ---
 ### 5. What have you learned/enjoyed/disliked
 I remember wondering, even before entering university, why we couldn't just achieve infinite speed by plugging in countless CPUs. This paper elegantly demonstrates that no problem in the real world is that simple, providing a sophisticated answer to my long-standing curiosity.
+
 written -2026-01-29 read -2025-10
