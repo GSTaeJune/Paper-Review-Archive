@@ -1,4 +1,4 @@
-# Validity of the single processor approach to achieving large scale computing capabilities.
+# Validity of the single processor approach to achieving large scale computing capabilities
 Amdahl, Gene M. "Validity of the single processor approach to achieving large scale computing capabilities." Proceedings of the April 18-20, 1967, spring joint computer conference. 1967.
 
 ---
